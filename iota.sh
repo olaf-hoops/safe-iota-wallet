@@ -1,7 +1,7 @@
 #!/bin/bash  
 
 # Install Light Wallet / INFO: change "iota_2.5.6_amd64.deb" if you downloaded an updated version
-sudo dpkg -i iota_2.5.6_amd64.deb & sleep 5
+sudo dpkg -i iota_2.5.6_amd64.deb & sleep 8
 
 # Startup and copying settings.json
 iota start & sleep 2
