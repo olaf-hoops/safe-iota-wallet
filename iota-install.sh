@@ -15,5 +15,5 @@ proxychains
 EOM
 
 # download wallet / INFO: you can change the download path if an updated version is available
-su -c "wget https://github.com/iotaledger/wallet/releases/download/v2.5.6/iota_2.5.6_amd64.deb" amnesia
+su -c "wget https://github.com/iotaledger/wallet/releases/download/v2.5.7/iota_2.5.7_amd64.deb" amnesia
 
